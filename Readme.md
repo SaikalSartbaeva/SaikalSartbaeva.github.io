@@ -1,1 +1,2 @@
-# This is my portfolio
+# deploud link
+https://saikalsartbaeva.github.io/
